@@ -29,6 +29,7 @@ The following regression models were implemented and evaluated:
 - **Linear Regression**
 - **Ridge Regression** (L2 Regularization)
 - **Lasso Regression** (L1 Regularization)
+- **ElasticNet Regression** 
 
 Each model was trained and validated using **k-fold cross-validation** to assess its generalization performance.
 
